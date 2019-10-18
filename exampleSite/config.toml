@@ -7,7 +7,7 @@ paginate = 20
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsstyle = "b2"
-theme = ""
+theme = "hugo-coder"
 title = "Jaii | Management"
 [languages.en]
 languagename = "English"
