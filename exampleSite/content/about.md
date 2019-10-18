@@ -1,6 +1,6 @@
 ---
 title: Info
-slug: about
+slug: Information
 
 ---
 Hugo is a static site engine written in Go.
