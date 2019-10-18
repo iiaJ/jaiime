@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://jaii.me"
 canonifyurls = true
 defaultcontentlanguage = "en"
 disqusShortname = "yourdiscussshortname"
