@@ -53,7 +53,7 @@ footercontent = "Coloque algum texto aqui."
 info = "Full Stack DevOps e Mágico"
 keywords = "blog,desenvolvedor,pessoal"
 [params]
-author = "John Doe"
+author = "Jaii"
 avatarurl = "images/avatar.jpg"
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 custom_css = []
